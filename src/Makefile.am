@@ -40,6 +40,7 @@ rtl_433_SOURCES      = baseband.c \
                        devices/hideki.c \
                        devices/hondaremote.c \
                        devices/ht680.c \
+		       devices/ht6p20b.c \
                        devices/inovalley-kw9015b.c \
                        devices/intertechno.c \
                        devices/kedsum.c \

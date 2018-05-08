@@ -51,6 +51,7 @@ add_executable(rtl_433
 	devices/gt_wt_02.c
 	devices/hideki.c
 	devices/ht680.c
+	devices/ht6p20b.c
 	devices/inovalley-kw9015b.c
 	devices/intertechno.c
 	devices/kedsum.c

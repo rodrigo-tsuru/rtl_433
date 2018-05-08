@@ -50,6 +50,7 @@
 		DECL(current_cost) \
 		DECL(emontx) \
 		DECL(ht680) \
+		DECL(ht6p20b) \
 		DECL(s3318p) \
 		DECL(akhan_100F14) \
 		DECL(quhwa) \
